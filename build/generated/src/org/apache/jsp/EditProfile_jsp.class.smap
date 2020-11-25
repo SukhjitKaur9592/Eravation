@@ -1,0 +1,18 @@
+SMAP
+EditProfile_jsp.java
+JSP
+*S JSP
+*F
++ 0 EditProfile.jsp
+EditProfile.jsp
++ 1 header.jsp
+UserPages/header.jsp
++ 2 footer.jsp
+UserPages/footer.jsp
+*L
+1:50
+1#1,43:51
+2#0,24:93
+1#2,16:116
+25#0:132
+*E

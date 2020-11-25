@@ -1,0 +1,85 @@
+.menu{
+   margin-top: 10px;
+   
+}
+#poor{
+    padding-left:80px;
+    padding-top:50px;
+    position:absolute;
+    padding-top:50px;
+    height:300;
+    width:400;
+}
+
+#panel{
+    margin-top:25px;
+    background:black ;
+    height:350px;
+    width: 1100px;
+    margin-left: 20px;
+    
+    
+}
+#para{
+    padding-left:450px ;
+    padding-top:20px;
+    color:white;
+}
+h2{
+   padding-top:20px;
+   padding-left: 450px;
+   color:white;
+}
+#btn{
+    color:white;
+    background:black;
+    margin-left:950px ;
+    margin-top:90px;
+}
+.icon
+{
+    height:80px;
+    width:80px;
+}
+#iconpanel{
+    margin-top:25px;
+    width: 1100px;
+    margin-left: 20px;
+    
+}
+#helpImg{
+    width:220px;
+    height:220px;
+    position:absolute;
+   padding-top: 30px;
+    padding-left:20px; 
+}
+#btmPara{
+    padding-left:250px;
+    padding-top:30px;
+    margin-right:100px;
+}
+
+#btn2{
+    margin-left:500px;
+    margin-top:150px;
+}
+#footer{
+    background:skyblue;
+    height:50px;
+    
+}
+#FrtText{
+   height:300px;
+   padding-top:30px;
+}
+#seTxt{
+    margin-top: 25px;
+    margin-left: 180px;
+    position: absolute;
+    
+}
+#seBtn{
+    margin-top: 25px;
+    position: relative;
+}

@@ -1,0 +1,31 @@
+SMAP
+Welcome_jsp.java
+JSP
+*S JSP
+*F
++ 0 Welcome.jsp
+UserPages/Welcome.jsp
++ 1 header.jsp
+UserPages/header.jsp
++ 2 footer.jsp
+UserPages/footer.jsp
+*L
+1,2:51
+1#1,43:53
+3#0:95
+5,5:97
+9,4:102
+13:106,3
+14,3:109
+17:112,3
+18,4:115
+22:119,3
+23,3:122
+26:125,3
+27,3:128
+30:131,3
+31,3:134
+34:137,3
+35,4:140
+1#2,16:143
+*E

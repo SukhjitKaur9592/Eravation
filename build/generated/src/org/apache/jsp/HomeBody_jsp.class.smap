@@ -1,0 +1,17 @@
+SMAP
+HomeBody_jsp.java
+JSP
+*S JSP
+*F
++ 0 header.jsp
+header.jsp
++ 1 HomeBody.jsp
+HomeBody.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,45:50
+1#1,34:94
+1#2,36:127
+34#1:163
+*E
